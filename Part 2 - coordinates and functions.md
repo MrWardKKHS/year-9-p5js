@@ -26,10 +26,10 @@ Open VS code and create a new p5.js sketch with a circle in the middle of the ca
 - How big is our canvas?
 - x and y -> width and height
 - Co-ordinates X Y -> Y is flipped!! (0,0) at top left 
+what is the coordinate of the middle? Top left corner, top right, bottom right, bottom left
 
 - code blocks {this is a block in curlies}
 
-what is the coordinate of the middle? Top left corner, top right, bottom right, bottom left
 
 ### 2. Lets talk about functions (7 minutes)
 - What are they? 
@@ -43,7 +43,7 @@ what is the coordinate of the middle? Top left corner, top right, bottom right, 
 
 - setup happens once,  draw runs sequentially through our code, looping 30 times a second
 
-- functions, arguments. "You told me to do star jumps I would need to ask you, how many" 
+- functions, **arguments**. "You told me to do star jumps I would need to ask you, how many" 
 
 - What are our arguments in createCanvas?
 

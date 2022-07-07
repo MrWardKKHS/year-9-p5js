@@ -5,8 +5,8 @@ This lesson plan will provide an introduction to VS code and how to set up p5.js
 ## Objectives:
 
 By the end of this lesson, students will be able to:
-- open VS code, open a folder in VS code, install a package and run a command from the command pallett
-- Understand what the p5.js editor is and what it can be used for
+- open VS code, open a folder in VS code, install an extension and run a command from the command pallett
+- Understand what the VS code editor is and what it can be used for
 - Have a basic understanding of how the editor works
 - Be familiar with the interface and some of the features of the editor
 
